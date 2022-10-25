@@ -1,0 +1,14 @@
+*{
+    background-color: steelblue;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color: whitesmoke;
+    
+}
+
+body{
+    align-items: flex-end;
+    justify-content: flex-end;
+}
